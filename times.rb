@@ -5,7 +5,3 @@ def using_times
 	end
 
 end
-
-
-
-
